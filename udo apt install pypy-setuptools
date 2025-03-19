@@ -1,0 +1,87 @@
+[32mpypy-setuptools[0m/oldstable 44.1.1-1 all
+  PyPy Distutils Enhancements
+
+[32mpython-pbr-doc[0m/stable 5.10.0-2 all
+  inject useful and sensible default behaviors into setuptools - doc
+
+[32mpython-phx-class-registry-doc[0m/stable 3.0.5-4 all
+  Module to define global factories and service registries - Documentation
+
+[32mpython-setuptools[0m/oldstable,now 44.1.1-1 all [installed]
+  Python Distutils Enhancements
+
+[32mpython-setuptools-doc[0m/stable 66.1.1-1+deb12u1 all
+  Python Distutils Enhancements (documentation)
+
+[32mpython-stevedore-doc[0m/stable 4.0.2-2 all
+  manage dynamic plugins for Python applications - doc
+
+[32mpython-wheel-common[0m/stable 0.38.4-2 all
+  built-package format for Python (command-line scripts)
+
+[32mpython3-colcon-python-setup-py[0m/stable 0.2.8-1 all
+  Extension for colcon to identify packages with setup.py
+
+[32mpython3-d2to1[0m/stable 0.2.12-3 all
+  Python3 support for distutils2-like setup.cfg files as package metadata
+
+[32mpython3-dials-data[0m/stable 2.4.0-1 all
+  Python data files used for regression tests in DIALS, dxtbx, xia2
+
+[32mpython3-distutils-extra[0m/stable 2.50 all
+  enhancements to the Python3 build system
+
+[32mpython3-flit-scm[0m/stable 1.6.2-1 all
+  PEP 518 build backend that uses setuptools_scm and flit
+
+[32mpython3-get-version[0m/stable,oldstable 2.1-2 all
+  Version helper in the spirit of versioneer
+
+[32mpython3-milksnake[0m/stable 0.1.5-3 amd64
+  setuptools/wheel/cffi extension to embed a binary data in wheels
+
+[32mpython3-pastescript[0m/stable 3.2.1-1 all
+  PasteScript is a pluggable command-line tool (Python3)
+
+[32mpython3-pbr[0m/stable 5.10.0-2 all
+  inject useful and sensible default behaviors into setuptools - Python 3.x
+
+[32mpython3-phx-class-registry[0m/stable 3.0.5-4 all
+  Module to define global factories and service registries
+
+[32mpython3-reentry[0m/stable 1.3.2-1 all
+  plugin manager based on setuptools entry points (Python 3)
+
+[32mpython3-setuptools[0m/stable 66.1.1-1+deb12u1 all
+  Python3 Distutils Enhancements
+
+[32mpython3-setuptools-gettext[0m/stable 0+git20221020.1.bf75db7-2 all
+  Setuptools gettext extension plugin
+
+[32mpython3-setuptools-git[0m/stable,oldstable 1.2-3 all
+  plugin for setuptools that enables git integration
+
+[32mpython3-setuptools-protobuf[0m/stable 0.1.3-2 all
+  Setuptools protobuf extension plugin
+
+[32mpython3-setuptools-rust[0m/stable 1.5.2-2 all
+  Setuptools Rust extension plugin
+
+[32mpython3-setuptools-scm[0m/stable 7.1.0-3 all
+  blessed package to manage your versions by scm tags for Python 3
+
+[32mpython3-setuptools-scm-git-archive[0m/stable 1.4-1 all
+  Plugin for setuptools_scm to add support for git archives
+
+[32mpython3-setuptools-whl[0m/now 75.8.0-1 all [installed,local]
+  Python Distutils Enhancements (wheel package)
+
+[32mpython3-skbuild[0m/stable 0.16.4-1 all
+  improved build system generator for Python C/C++/Fortran/Cython extensions
+
+[32mpython3-stevedore[0m/stable 4.0.2-2 all
+  manage dynamic plugins for Python applications - python3
+
+[32mpython3-wheel[0m/now 0.45.1-1 all [installed,local]
+  built-package format for Python
+
